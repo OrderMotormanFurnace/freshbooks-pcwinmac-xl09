@@ -1,4 +1,4 @@
-# 
+# Native FreshBooks scripts for Mac OS | Lightweight FreshBooks scripts for PC Windows. Featuring tax preparation and multi-language support — optimized for maximum performance on every platform.
 
 
 
